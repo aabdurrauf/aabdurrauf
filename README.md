@@ -15,7 +15,7 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 ### 🚀 About Me
 
 - 🎯 **Interests:** AI, Computer Vision, UAV systems, Reinforcement Learning, LLMs, Web technologies, Microservices, Rocket Science, Neuroscience 🧠 and moreee!!
-- 📍 **Currently Based In:** Istanbul, Turkey  
+- 📍 **Currently Based In:** Istanbul, Türkiye  
 - 🎓 **University:** Marmara University – Computer Engineering (senior-year)
 - 🏆 2nd place at **T3 AI Hackathon - Teknofest Adana 2024**
 - 🛠️ Interning at **SinergyIT** — working on .NET microservices (Full-stack developer)
