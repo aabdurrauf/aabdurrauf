@@ -43,11 +43,11 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 
 ### 🤝 Let's Connect and Collaborate!
 
-- 📨 Reach me: [ammarabdurrauf27@gmail.com]  
+- 📨 Reach me: [ammarabdurrauf27@gmail.com](mailto:ammarabdurrauf27@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ammarabdurrauf](https://www.linkedin.com/in/ammarabdurrauf/)
 
 ---
 
 Thanks for stopping by! Feel free to explore my projects and reach out to collaborate!
 
-ps: I am Indonesian if you are curious about my nationality 🤭 🇮🇩
+ps: I am Indonesian if you are curious about my nationality 😎 🇮🇩
