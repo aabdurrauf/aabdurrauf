@@ -6,7 +6,7 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 * 🔭 Currently working on: Reinforcement Learning for Smart Missiles Guidance & AI-Powered UAV Projects
 * 🌱 Currently learning: .NET Microservices, React, Typescript, Web Development, and Simulation & Modelling using Matlab
 * 💬 Ask me about: Computer Vision, Reinforcement Learning, OCR, and building AI pipelines
-* 📫 Reach me at: [Gmail](ammarabdurrauf27@gmail.com) | [linkedin.com/in/ammarabdurrauf](https://www.linkedin.com/in/ammarabdurrauf/)
+* 📫 Reach me at: [Gmail](mailto:ammarabdurrauf27@gmail.com) | [linkedin.com/in/ammarabdurrauf](https://www.linkedin.com/in/ammarabdurrauf/)
 * ⚡ Fun fact: I won a silver medal 🥈 in the Teknofest T3 AI Hackathon 2024 competition and also fly virtual drones for fun! 🛩️
 
 ---
