@@ -41,6 +41,12 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 
+### 📃 My Publications
+- [Minimizing Rocket Landing's Trajectory Following Error via Visual Guided Wind Compensator](https://ieeexplore.ieee.org/document/10768042)
+- [Implementation of Atrous Convolution for Cloud Segmentation in Grayscale & RGB Images from Landsat 8](https://ieeexplore.ieee.org/document/10767982)
+- [The Analysis of Variations in Peak Time Values With Disturbance on DC Motors Using Robust Tracking Control](https://www.atlantis-press.com/proceedings/icast-es-23/125998361)
+
+
 ### 🤝 Let's Connect and Collaborate!
 
 - 📨 Reach me: [ammarabdurrauf27@gmail.com](mailto:ammarabdurrauf27@gmail.com)
