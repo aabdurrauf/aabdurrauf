@@ -24,8 +24,8 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 
 - 🤖 **Anti-Roll Control for Smart Missiles** using DDPG vs PID controllers
 - 📷 **Real-Time OCR Systems** with KerasOCR and EasyOCR
-- 🪂 **Dildash (Dil Arkadaşı):** A Turkish learning platform powered by LLMs for international students
-- 🛩️ **UAV and Drone Simulation** with motion planning and radar evasion
+- 🪂 **Dildash (Dil Arkadaşı):** A Turkish learning platform powered by LLMs for international students [repo🔗](https://github.com/robtad/Mavericks)
+- 🛩️ **UAV and Drone Simulation** using X-Plane 11 and XPC
 - 🌐 **Microservice Software** using .Net at SinergyIT
 
 ### 🔧 Tools & Technologies
