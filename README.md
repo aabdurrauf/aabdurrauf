@@ -1,6 +1,6 @@
 ## Haii Merhabaaa!! 👋
 Welcome to my GitHub profile — I'm glad you're here!<br/>
-Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enthusiast who loves building intelligent systems, working with AI models, and solving real-world problems through code. 🚀
+Just call me **Ammar** 😆! I'm a senior Computer Engineering student and tech enthusiast who loves building intelligent systems, working with AI models, and solving real-world problems through code. 🚀
 
 ## Sum of me:
 * 🔭 Currently working on: Reinforcement Learning for Smart Missiles Guidance & AI-Powered UAV Projects
