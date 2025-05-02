@@ -1,5 +1,5 @@
 ## Haii Merhabaaa!! 👋
-Welcome to my GitHub profile — I'm glad you're here!
+Welcome to my GitHub profile — I'm glad you're here!<be>
 Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enthusiast who loves building intelligent systems, working with AI models, and solving real-world problems through code. 🚀
 
 ## Sum of me:
@@ -8,6 +8,8 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 * 💬 Ask me about: Computer Vision, Reinforcement Learning, OCR, and building AI pipelines
 * 📫 Reach me at: [Gmail](ammarabdurrauf27@gmail.com) | [linkedin.com/in/ammarabdurrauf](https://www.linkedin.com/in/ammarabdurrauf/)
 * ⚡ Fun fact: I won a silver medal 🥈 in the Teknofest T3 AI Hackathon 2024 competition and also fly virtual drones for fun! 🛩️
+
+---
 
 ## More details about me:
 ### 🚀 About Me
@@ -22,7 +24,7 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 
 - 🤖 **Anti-Roll Control for Smart Missiles** using DDPG vs PID controllers
 - 📷 **Real-Time OCR Systems** with KerasOCR and EasyOCR
-- 🇹🇷 **Dildash (Dil Arkadaşı):** A Turkish learning platform powered by LLMs for international students
+- 🪂 **Dildash (Dil Arkadaşı):** A Turkish learning platform powered by LLMs for international students
 - 🛩️ **UAV and Drone Simulation** with motion planning and radar evasion
 - 🌐 **Microservice Software** using .Net at SinergyIT
 
@@ -48,4 +50,4 @@ Just call me Ammar 😆! I'm a senior Computer Engineering student and tech enth
 
 Thanks for stopping by! Feel free to explore my projects and reach out to collaborate!
 
-ps: I am Indonesian 🇮🇩 if you are curious about my nationality 🤭
+ps: I am Indonesian if you are curious about my nationality 🤭 🇮🇩
