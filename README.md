@@ -1,10 +1,9 @@
 ## Haii Merhabaaa!! 👋
-Welcome to my GitHub profile — I'm glad you're here!<br/>
-Just call me **Ammar** 😆! I'm a senior Computer Engineering student and tech enthusiast who loves building intelligent systems, working with AI models, and solving real-world problems through code. 🚀
+Welcome to my GitHub profile - I'm glad you're here!<br/>
+Just call me **Ammar** 😆! I'm a master student in Computer Engineering and tech enthusiast who loves building intelligent systems, working with AI models, and solving real-world problems through code. 🚀
 
 ## Sum of me:
-* 🔭 Currently working on: Reinforcement Learning for Smart Missiles Guidance & AI-Powered UAV Projects
-* 🌱 Currently learning: .NET Microservices, React, Typescript, Web Development, and Simulation & Modelling using Matlab
+* 🌱 Currently learning: Medical Imaging, Magnetic Particle Imaging, Signal Processing
 * 💬 Ask me about: Computer Vision, Reinforcement Learning, OCR, and building AI pipelines
 * 📫 Reach me at: [Gmail](mailto:ammarabdurrauf27@gmail.com) | [linkedin.com/in/ammarabdurrauf](https://www.linkedin.com/in/ammarabdurrauf/)
 * ⚡ Fun fact: I won a silver medal 🥈 in the Teknofest T3 AI Hackathon 2024 competition and also fly virtual drones for fun! 🛩️
@@ -16,9 +15,9 @@ Just call me **Ammar** 😆! I'm a senior Computer Engineering student and tech 
 
 - 🎯 **Interests:** AI, Computer Vision, UAV systems, Reinforcement Learning, LLMs, Web technologies, Microservices, Rocket Science, Neuroscience 🧠 and moreee!!
 - 📍 **Currently Based In:** Istanbul, Türkiye  
-- 🎓 **University:** Marmara University – Computer Engineering (senior-year)
+- 🎓 **University:** Marmara University – Computer Engineering (Graduated with GPA: 3.66/4.00) - Currently doing master at Istanbul Technical University
 - 🏆 2nd place at **T3 AI Hackathon - Teknofest Adana 2024**
-- 🛠️ Interning at **SinergyIT** — working on .NET microservices (Full-stack developer)
+- 🛠️ Full-time software engineer at **SinergyIT** — working on .NET microservice projects
 
 ### 🧠 What I'm Working On
 
@@ -55,5 +54,3 @@ Just call me **Ammar** 😆! I'm a senior Computer Engineering student and tech 
 ---
 
 Thanks for stopping by! Feel free to explore my projects and reach out to collaborate!
-
-ps: I am Indonesian if you are curious about my nationality 😎 🇮🇩
